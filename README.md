@@ -9,7 +9,7 @@
 - Next.js
     
 ## 🌱 I’m currently learning ...
-I am currently learning PHP and improving my skills and knowledge in HTML, CSS and JS
+I am currently learning  and improving my skills and knowledge in HTML, CSS and JS
 
 ## Projects
 These are some of the [frontendmentor](https://www.frontendmentor.io/) challenges that I have developed
