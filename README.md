@@ -4,7 +4,9 @@
 - HTML
 - CSS
 - JS
-- PHP
+- React
+- Node.js
+- Next.js
     
 ## 🌱 I’m currently learning ...
 I am currently learning PHP and improving my skills and knowledge in HTML, CSS and JS
