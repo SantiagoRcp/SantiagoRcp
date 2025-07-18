@@ -1,28 +1,42 @@
-# 👋 Hi, I’m @SantiagoRcp
+<h1 align="center">¡Hola! 👋 Soy Santiago</h1>
+<p align="center">
+  Un desarrollador Backend Jr. apasionado por construir soluciones robustas y escalables.
+</p>
 
-##  👀 I’m interested in ...
-- HTML
-- CSS
-- JS
-- React
-- Node.js
-- Next.js
-    
-## 🌱 I’m currently learning ...
-I am currently learning  and improving my skills and knowledge in HTML, CSS and JS
+---
 
-## Projects
-These are some of the [frontendmentor](https://www.frontendmentor.io/) challenges that I have developed
-- link to [QR Card](https://adorable-manatee-22eef8.netlify.app), link to [repository](https://github.com/SantiagoRcp/qr-code-component-main)
-    
-- link to [Product Card](https://graceful-dasik-a110bb.netlify.app), link to [repository](https://github.com/SantiagoRcp/product-preview-card-component)
-  
-- link to [Card Component](https://64332d7254084977927a7d8a--stats-cardsrcp.netlify.app/), link to [repository](https://github.com/SantiagoRcp/Stats-preview-card-component)
+### 🌱 Sobre Mí
 
-## other projects
-- link to [Terraza Restaurant](https://terrazarestaurant-src.netlify.app), link to [repository](https://github.com/SantiagoRcp/terrazaRestaurant)
+Soy un entusiasta de la tecnología con un fuerte interés en el desarrollo del lado del servidor. Actualmente estoy enfocado en profundizar mis conocimientos en el ecosistema de JavaScript, construyendo proyectos personales para aplicar y mejorar mis habilidades. Mi objetivo es conseguir mi primera oportunidad profesional como desarrollador Backend.
 
-<!---
-SantiagoRcp/SantiagoRcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Actualmente estoy trabajando en un proyecto de una API RESTFUL para un blog.
+- 🌱 Estoy aprendiendo **Node.js, Express.js y TypeScript** para crear APIs eficientes y seguras.
+- 🤔 Estoy buscando ayuda buenas prácticas en autenticación con JWT.
+- 📫 Cómo contactarme: santiagorcp.9854@gmail.com o a través de mi [LinkedIn](https://www.linkedin.com/in/santiagorcp/).
+
+---
+
+### 💻 Mi Stack Tecnológico
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,git,github,vscode,mysql" />
+  </a>
+</p>
+
+---
+
+### 🚀 Mis Proyectos Destacados
+
+| Proyecto          | Stack Utilizado            | Enlace al Repositorio |
+| ----------------- | -------------------------- | --------------------- |
+| **API para Blog** | Node.js, Express.js, MYSQL | Trabajndo en ello     |
+
+### 📫 Contacto
+
+<p align="center">
+<a href="https://www.linkedin.com/in/santiagorcp/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
