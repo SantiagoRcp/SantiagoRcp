@@ -9,7 +9,7 @@
 
 Soy un entusiasta de la tecnología con un fuerte interés en el desarrollo del lado del servidor. Actualmente estoy enfocado en profundizar mis conocimientos en el ecosistema de JavaScript, construyendo proyectos personales para aplicar y mejorar mis habilidades. Mi objetivo es conseguir mi primera oportunidad profesional como desarrollador Backend.
 
-- 🔭 Actualmente estoy trabajando en un proyecto de una API RESTFUL para un blog.
+- 🔭 Actualmente estoy poniendo en practica mis conocimientos con pequeños proyectos.
 - 🌱 Estoy aprendiendo **Node.js, Express.js y TypeScript** para crear APIs eficientes y seguras.
 - 🤔 Estoy buscando ayuda buenas prácticas en autenticación con JWT.
 - 📫 Cómo contactarme: santiagorcp.9854@gmail.com o a través de mi [LinkedIn](https://www.linkedin.com/in/santiagorcp/).
