@@ -30,7 +30,7 @@ Soy un entusiasta de la tecnología con un fuerte interés en el desarrollo del 
 
 | Proyecto          | Stack Utilizado            | Enlace al Repositorio |
 | ----------------- | -------------------------- | --------------------- |
-| **API  book-managemen** | Node.js, Express.js, MYSQL, Prisma ORM | Trabajndo en ello     |
+| **API  book-managemen** | Node.js, Express.js, MYSQL, Prisma ORM | <a href="https://github.com/SantiagoRcp/book-management">Repo</a>    |
 
 ### 📫 Contacto
 
